@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracer2Server", "Tracer2Server.csproj", "{26B4DD2E-E311-4B02-AB92-BA3BD8B4ECDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26B4DD2E-E311-4B02-AB92-BA3BD8B4ECDE}.Debug|x86.ActiveCfg = Debug|x86
+		{26B4DD2E-E311-4B02-AB92-BA3BD8B4ECDE}.Debug|x86.Build.0 = Debug|x86
+		{26B4DD2E-E311-4B02-AB92-BA3BD8B4ECDE}.Release|x86.ActiveCfg = Release|x86
+		{26B4DD2E-E311-4B02-AB92-BA3BD8B4ECDE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

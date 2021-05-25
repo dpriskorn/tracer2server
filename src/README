@@ -1,0 +1,23 @@
+Tracer2Server
+=============
+
+Traces buildings and other shapes from a map.
+The server is required by the JOSM plugin Tracer2.
+
+Author:
+    Dirk Bruenig <dirk@bruenig.de>
+
+License:
+    Public domain
+        src\BoneJ\doube\jama\*.*
+    GPL-v3.0 or later.
+        src\BoneJ\doube\geometry\*.*
+    GPL-v2.0 or later.
+        all other files
+
+Acknowledgements:
+    JOSM plugin "Tracer" by Jan Bilak and Petr Dlouhý.
+    Osm.Kn.Trace.Server by Jan Bilak and Bilbo.
+    Windows installer NSIS http://nsis.sourceforge.net/
+    BoneJ a collection of plugins for bone image analysis http://bonej.org/
+    JAMA : A Java Matrix Package http://math.nist.gov/javanumerics/jama/

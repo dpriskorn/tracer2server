@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96" height="96" xmlns="http://www.w3.org/2000/svg" xmlns:se="http://svg-edit.googlecode.com">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+
+ <g>
+  <title>Layer 1</title>
+  <path fill="#ffffff" stroke="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="square" d="m84,39l-15,44l-48,-4l-8,-46l36,-20l35,26z" id="svg_15"/>
+  <polyline se:connector="svg_5 svg_7" stroke-linecap="square" fill="none" stroke-width="4" stroke="#000000" points="14.1304,39.5 17,56 19.8696,72.5" id="svg_26"/>
+  <polyline se:connector="svg_8 svg_6" stroke-linecap="square" fill="none" stroke-width="4" stroke="#000000" points="71.0682,76.5 76,61 80.9318,45.5" id="svg_13"/>
+  <polyline se:connector="svg_6 svg_3" stroke-linecap="square" fill="none" stroke-width="4" stroke="#000000" points="76.5,34.0294 66,26 55.5,17.9706" id="svg_12"/>
+  <polyline se:connector="svg_7 svg_8" stroke-linecap="square" fill="none" stroke-width="4" stroke="#000000" points="27.5,79.5417 45,81 62.5,82.4583" id="svg_9"/>
+  <polyline se:connector="svg_3 svg_5" stroke-linecap="square" fill="none" stroke-width="4" stroke="#000000" points="42.5,16.6111 31,23 19.5,29.3889" id="svg_11"/>
+  <text transform="rotate(-8, 47.9999, 48) matrix(3.20172, 0, 0, 1.90589, -770.136, -275.115)" xml:space="preserve" text-anchor="middle" font-family="Cursive" font-size="24" id="svg_17" y="179.21344" x="255.34037" stroke-linecap="null" stroke-linejoin="null" stroke="#000000" fill="#000000">2</text>
+  <rect ry="1" rx="1" id="svg_3" height="10" width="10" y="8" x="44" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#ff0000" fill="#ffffff"/>
+  <rect ry="1" rx="1" id="svg_6" height="10" width="10" y="34" x="78" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#ff0000" fill="#ffffff"/>
+  <rect ry="1" rx="1" id="svg_8" height="10" width="10" y="78" x="64" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#ff0000" fill="#ffffff"/>
+  <rect ry="1" rx="1" id="svg_7" height="10" width="10" y="74" x="16" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#ff0000" fill="#ffffff"/>
+  <rect ry="1" rx="1" id="svg_5" height="10" width="10" y="28" x="8" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#ff0000" fill="#ffffff"/>
+  <line fill="none" stroke="#000000" stroke-width="4" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="square" x1="8" y1="44" x2="34" y2="78" id="svg_14" transform="rotate(120.76, 628.5, 322.5)"/>
+ </g>
+</svg>
